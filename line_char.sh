@@ -9,3 +9,6 @@ echo "The total number of characters in line $num is $count: "
 num=`expr $num + 1`
 done < $filename
 
+
+#This is in branch2 -->file edited is line_char.sh
+#Branch2 file edited.
