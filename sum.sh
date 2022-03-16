@@ -11,5 +11,5 @@ lsoutput=`ls`
 echo "The output of ls command is store in\n $lsoutput"
 
 
-#This is in Branch5. File edited is sum.sh
+#This is in Branch5. File edited as sum.sh
 #Branch6
